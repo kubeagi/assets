@@ -11,3 +11,6 @@ https://github.com/f/awesome-chatgpt-prompts?tab=readme-ov-file
 
 ## Python library for automatically generating prompts using LLMs
 https://github.com/pikho/ppromptor
+
+## Leaked prompts of GPTs
+https://github.com/linexjlin/GPTs
