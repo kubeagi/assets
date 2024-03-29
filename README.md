@@ -23,3 +23,6 @@ https://github.com/pikho/ppromptor
 
 ## Leaked prompts of GPTs
 https://github.com/linexjlin/GPTs
+
+## An interested prompt tool
+https://github.com/osi1880vr/prompt_quill
